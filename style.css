@@ -1,0 +1,54 @@
+body {background-color:darkcyan;}
+h1,h2,h3{text-align:center;}
+#wrapper {
+  width: 80%;
+  margin:auto;
+  background-color:tan;
+  box-shadow:10px 10px;
+}
+#wrapper, #fallacies{
+  width:90%;
+  margin:auto;
+}
+
+.itembox {
+  border-style: solid;
+  border-radius:0%;
+  box-shadow:5px 5px;
+  background-color:beige;
+  padding:10px;
+}
+
+.favorite {
+  border-style: solid;
+  background-color:rgb(88, 125, 131);
+  color:black
+}
+
+ol {
+  background: #6bc0b9;
+  padding: 20px;
+  list-style-type:lower-latin;
+}
+
+#ToC{
+  Background-color: rgb(17, 17, 17);
+  border-style: solid;
+
+}
+button{
+  display: inline;
+  border-style: solid;
+  border-color: darkred;
+  background-color: rgb(17, 17, 17);
+  color: rgb(255, 255, 255);
+}
+ul {
+  background: #6bc0b9;
+  padding: 20px;
+  list-style-type: circle;
+}
+
+ul.c{
+
+}
